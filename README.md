@@ -1,4 +1,7 @@
 # Currency Converter 💱
+## 🚀 Live Demo
+🔗 [Check out the live version](https://currency-converter-nine-fawn.vercel.app/)
+
 
 A simple and responsive currency converter web application that allows users to convert currencies in real-time. The app fetches live exchange rates and provides an easy-to-use interface for conversions.
 
